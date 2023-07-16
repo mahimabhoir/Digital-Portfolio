@@ -358,7 +358,7 @@ button{
 h3.hello{
     font-size: 28px;
     margin: 15px 0;
-    color: var(--bg-black-900);
+    color: var(--bg-black-700);
 }
 
 h3.hello span{
