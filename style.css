@@ -358,7 +358,7 @@ button{
 h3.hello{
     font-size: 28px;
     margin: 15px 0;
-    color: var(--bg-black-700);
+    color: var(--text-black-900);
 }
 
 h3.hello span{
@@ -371,7 +371,7 @@ h3.hello span{
 h3.my-profession{
    font-size: 30px;
    margin: 15px 0;
-   color: var(--bg-black-900);
+   color: var(--text-black-900);
 }
 
 .typing{
